@@ -1,6 +1,6 @@
 # ComProg-Lab
 
-This repository is for the assigments I did on Computer Programming course by professor Sirin Nitinawarat at Chulalongkorn Univerity.
+This repository is for the assigments I did on Computer Programming course by professor Sirin Nitinawarat at Chulalongkorn University.
 
 Course Description:
 
